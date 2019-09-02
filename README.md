@@ -4,4 +4,4 @@ The Philippines PIRE Project is a multi-year collaboration between Filipino and 
 
 Please visit our website (https://sites.wp.odu.edu/PIRE/) or contact us for more info (philippinespire@gmail.com).
 
-In these repositories, you can learn about the research carried out by the project staff and REU students, and find resources provided in our genomics workshop every summer in Dumaguete City, Negros Oriental, Philippines.
+In this repository, you can learn about the research carried out by the project staff and REU students, and find resources provided in our genomics workshop every summer in Dumaguete City, Negros Oriental, Philippines.
