@@ -15,7 +15,7 @@ In this repository, you can learn about the research carried out by the project 
 |	Abu | _Ambassis buruensis_ |	C	|	48	|	Pand	|	Pnd	|	Pandanon Island	|	10.17272, 124.07805	|	LCWGS	|	2	|	Yes	|
 |	Cvi	|	_Chromis viridis_	|	A	|	40	|	Bali	|	Pal	|	Port Palapag	|	12.63476, 125.00978	|	LCWGS	|	1	|	Yes	|
 |	Cvi	|	_Chromis viridis_	|	C	|	64	|	Bali	|	Pal	|	Biri Island	|	12.66436, 124.36162	|	LCWGS	|	1	|	Yes	|
-|	Cvi	|	_Chromis viridis	|	A	|	40	|	Bali	|	Pal	|	Port Palapag	|	12.63476, 125.00978	|	LCWGS	|	2	|	Yes	|
+|	Cvi	|	_Chromis viridis_	|	A	|	40	|	Bali	|	Pal	|	Port Palapag	|	12.63476, 125.00978	|	LCWGS	|	2	|	Yes	|
 |	Cvi	|	_Chromis viridis_	|	C	|	48	|	Bali	|	Pal	|	Biri Island	|	12.66436, 124.36162	|	LCWGS	|	2	|	Yes	|
 |	Dar	|	_Dascyllus aruanus_	|	A	|	21	|	Jolo	|	Jol	|	Jolo	|	6.0599, 120.99097	|	LCWGS	|	1	|	No	|
 |	Dar	|	_Dascyllus aruanus_	|	C	|	64	|	Jolo	|	Jol	|	Jolo	|	6.05514, 120.99597	|	LCWGS	|	1	|	No	|
