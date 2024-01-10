@@ -106,7 +106,7 @@ In this repository, you can learn about the research carried out by the project 
 |	Sgr	|	_Spratelloides gracilis_	|	A	|	37	|	Samr	|	Pal	|	Port Palapag	|	12.63476, 125.00978	|	CSSL	|		|	Yes	|
 |	Sgr	|	_Spratelloides gracilis_	|	C	|	61	|	Jolo	|	Jol	|	Hadji Panglima Tahil	|	6.1098, 120.9775	|	CSSL	|		|	Yes	|
 |	Sgr	|	_Spratelloides gracilis_	|	C	|	64	|	Masi	|	Mvi	|	Masinloc Bay	|	15.55672, 119.93036	|	CSSL	|		|	Yes	|
-|	Sgr	|	_Spratelloides gracilis_	|	C	|	61	|		|	Pal	|	Biri Island	|	12.66436, 124.36162	|	CSSL	|		|	Yes	|
+|	Sgr	|	_Spratelloides gracilis_	|	C	|	61	|		|	Bir	|	Biri Island	|	12.66436, 124.36162	|	CSSL	|		|	Yes	|
 |	Tbi	|	_Taeniamia biguttata_	|	A	|	31	|	Rosa	|	Ros	|	Rosa Island	|	13.71673, 123.66866	|	CSSL	|		|	Yes	|
 |	Tbi	|	_Taeniamia biguttata_	|	C	|	63	|	Rosa	|	Jos	|	San Jose	|	13.71671, 123.57601	|	CSSL	|		|	Yes	|
 |	Tbi	|	_Taeniamia biguttata_	|	A	|	31	|	Rosa	|	Ros	|	Rosa Island	|	13.71673, 123.66866	|	CSSL	|		|	Yes	|
