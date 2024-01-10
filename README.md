@@ -116,12 +116,11 @@ In this repository, you can learn about the research carried out by the project 
 |	Cvi	|	_Chromis viridis_	|	C	|	1	|	Bali	|	Pal	|	Biri Island	|	12.66436, 124.36162	|	SSL	|		|	Yes	|
 |	Cha	|	_Corythoichthys haematopterus_	|	C	|	1	|	Pand	|	Pnd	|	Pandanon Island	|	10.17272, 124.07805	|	SSL	|		|	Yes	|
 |	Dar	|	_Dascyllus aruanus_	|	C	|	1	|	Jolo	|	Jol	|	Jolo	|	6.05514, 120.99597	|	SSL	|		|	Yes	|
-|	Eps	|	_Encrasicholina pseudoheteroloba_	|		|	0	|		|		|		|		|	SSL	|		|	Yes	|
 |	Gma	|	_Gerres macracanthus_	|	C	|	1	|	RagR	|	Rag	|	Ragay	|	13.81057, 122.72905	|	SSL	|		|	Yes	|
 |	Goy	|	_Gerres oyena_	|	C	|	1	|	RagR	|	Pas	|	Pasacao	|	13.5069, 123.04262	|	SSL	|		|	Yes	|
 |	Hmi	|	_Halichoeres miniatus_	|	C	|	1	|	Daet	|	Par	|	Punlang Daga Beach, Paracale	|	14.2897, 122.81516	|	SSL	|		|	Yes	|
 |	Hqu	|	_Herklotsichthys quadrimaculatus_	|	C	|	1	|	Nasu	|	Nas	|	Nasugbu	|	14.07303, 120.62007	|	SSL	|		|	Yes	|
-|	Hte	|	_Hypoatherina temminckii_	|		|	0	|		|		|		|	 	|	SSL	|		|	Yes	|
+|	Hte	|	_Hypoatherina temminckii_	|	C	|	0	|		|	Tic	|		|	 	|	SSL	|		|	Yes	|
 |	Lva	|	_Lethrinus variegatus_	|	C	|	1	|	Pand	|	Pnd	|	Pandanon Island / Cuaming	|	P: 10.17272, 124.07805 / C: 10.14652, 124.02712 	|	SSL	|		|	Yes	|
 |	Och	|	_Ostorhinchus chrysopomus_	|	C	|	1	|	Tumi	|	Tum	|	Tumindao Channel	|	4.67784, 119.41519	|	SSL	|		|	Yes	|
 |	Pbb	|	_Parupeneus barberinus_	|	C	|	1	|	PGal	|	Gal	|	Verde Island	|	13.57224, 121.08587	|	SSL	|		|	Yes	|
@@ -133,7 +132,7 @@ In this repository, you can learn about the research carried out by the project 
 |	Sfa	|	_Salarias fasciatus_	|	C	|	1	|	Basu	|	Bas	|	Mercedes/Manguisoc	|	14.1165, 123.01496	|	SSL	|		|	Yes	|
 |	Sfu	|	_Siganus fuscescens_	|	C	|	1	|	Bais	|	Bai	|	South Bais Bay	|	9.57366, 123.14231	|	SSL	|		|	Yes	|
 |	Sne	|	_Sphaeramia nematoptera_	|	C	|	1	|	Tawi	|	Taw	|	Bongao Channel / Bongao Fish Market	|	BC: 5.03452, 119.74452 / BFM: 5.02986, 119.77541	|	SSL	|		|	Yes	|
-|	Sor	|	_Sphaeramia orbicularis_	|		|	0	|		|		|		|		|	SSL	|		|	no	|
+|	Sor	|	_Sphaeramia orbicularis_	|	C	|	0	|	N/A	|	N/A	|	N/A	|	N/A	|	SSL	|		|	no	|
 |	Sob	|	_Sphyraena obtusata	|	C	|	1	|	Connectivity	|	Kal	|	Kalibo	|	11.61847, 122.48415	|	SSL	|		|	Yes	|
 |	Sde	|	Spratelloides delicatulus_	|	C	|	1	|	MatB	|	Mat	|	Bulan	|	12.66646, 123.87084	|	SSL	|		|	Yes	|
 |	Sgr	|	_Spratelloides gracilis_	|	C	|	1	|	Masi	|	Mvi	|	Masinloc Bay	|	15.55672, 119.93036	|	SSL	|		|	Yes	|
