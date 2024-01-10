@@ -120,7 +120,7 @@ In this repository, you can learn about the research carried out by the project 
 |	Goy	|	_Gerres oyena_	|	C	|	1	|	RagR	|	Pas	|	Pasacao	|	13.5069, 123.04262	|	SSL	|		|	Yes	|
 |	Hmi	|	_Halichoeres miniatus_	|	C	|	1	|	Daet	|	Par	|	Punlang Daga Beach, Paracale	|	14.2897, 122.81516	|	SSL	|		|	Yes	|
 |	Hqu	|	_Herklotsichthys quadrimaculatus_	|	C	|	1	|	Nasu	|	Nas	|	Nasugbu	|	14.07303, 120.62007	|	SSL	|		|	Yes	|
-|	Hte	|	_Hypoatherina temminckii_	|	C	|	0	|		|	Tic	|		|	 	|	SSL	|		|	Yes	|
+|	Hte	|	_Hypoatherina temminckii_	|	C	|	0	|	MatB	|	Tic	|	Bulan	|	12.66646, 123.87084 |	SSL	|		|	Yes	|
 |	Lva	|	_Lethrinus variegatus_	|	C	|	1	|	Pand	|	Pnd	|	Pandanon Island / Cuaming	|	P: 10.17272, 124.07805 / C: 10.14652, 124.02712 	|	SSL	|		|	Yes	|
 |	Och	|	_Ostorhinchus chrysopomus_	|	C	|	1	|	Tumi	|	Tum	|	Tumindao Channel	|	4.67784, 119.41519	|	SSL	|		|	Yes	|
 |	Pbb	|	_Parupeneus barberinus_	|	C	|	1	|	PGal	|	Gal	|	Verde Island	|	13.57224, 121.08587	|	SSL	|		|	Yes	|
