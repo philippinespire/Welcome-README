@@ -6,7 +6,7 @@ Please visit our website (https://sites.wp.odu.edu/PIRE/) or contact us for more
 
 In this repository, you can learn about the research carried out by the project staff and REU students, and find resources provided in our genomics workshop every summer in Dumaguete City, Negros Oriental, Philippines.
 
-This table lists the genomic data available as of January 2024. When more than one sequencing run was completed, this typically represents the same individuals to get more sequencing depth (if CSSL), or a full sequencing run after a first very low-coverage test run was completed (if lcWGS). CSSL represents Capture Shotgun Sequencing Libraries. LCWGS represents low-coverage whole genome sequencing.
+This table lists the genomic data available as of January 2024. For access to these data, please contact Drs. Kent Carpenter (kcarpent@odu.edu), Malin Pinsky (mpinsky@ucsc.edu), or Chris Bird (chris.bird@tamucc.edu). When more than one sequencing run was completed, this typically represents the same individuals to get more sequencing depth (if CSSL), or a full sequencing run after a first very low-coverage test run was completed (if lcWGS). CSSL represents Capture Shotgun Sequencing Libraries. LCWGS represents low-coverage whole genome sequencing. If the Sequencing Complete column indicates "No," the libraries were being processed and should be available soon.
 
 
 |**Species Code**|**Species Name**|**Era (Albatross or Contemporary)**|**Number of Individuals**|**Match ID**|**Location Code**|**Collection Site**|**Lat/Long**|**Sequencing Type**|**Sequencing Run Number**|**Sequencing Complete?**|
