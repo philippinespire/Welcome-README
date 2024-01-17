@@ -135,8 +135,8 @@ This table lists the genomic data available as of January 2024. When more than o
 |	Sfu	|	_Siganus fuscescens_	|	C	|	1	|	Bais	|	Bai	|	South Bais Bay	|	9.57366, 123.14231	|	SSL	|		|	Yes	|
 |	Sne	|	_Sphaeramia nematoptera_	|	C	|	1	|	Tawi	|	Taw	|	Bongao Channel / Bongao Fish Market	|	BC: 5.03452, 119.74452 / BFM: 5.02986, 119.77541	|	SSL	|		|	Yes	|
 |	Sor	|	_Sphaeramia orbicularis_	|	C	|	0	|	N/A	|	N/A	|	N/A	|	N/A	|	SSL	|		|	no	|
-|	Sob	|	_Sphyraena obtusata	|	C	|	1	|	Connectivity	|	Kal	|	Kalibo	|	11.61847, 122.48415	|	SSL	|		|	Yes	|
-|	Sde	|	Spratelloides delicatulus_	|	C	|	1	|	MatB	|	Mat	|	Bulan	|	12.66646, 123.87084	|	SSL	|		|	Yes	|
+|	Sob	|	_Sphyraena obtusata_	|	C	|	1	|	Connectivity	|	Kal	|	Kalibo	|	11.61847, 122.48415	|	SSL	|		|	Yes	|
+|	Sde	|	_Spratelloides delicatulus_	|	C	|	1	|	MatB	|	Mat	|	Bulan	|	12.66646, 123.87084	|	SSL	|		|	Yes	|
 |	Sgr	|	_Spratelloides gracilis_	|	C	|	1	|	Masi	|	Mvi	|	Masinloc Bay	|	15.55672, 119.93036	|	SSL	|		|	Yes	|
 |	Sin	|	_Stethojulis interrupta_	|	C	|	1	|		|	Pnd	|	Pandanon Island	|	10.17272, 124.07805	|	SSL	|		|	Yes	|
 |	Tzo	|	_Taeniamia zosterophora_	|	C	|	1	|	Masi	|	Mvi	|	South Poblacion, Masinloc Bay / Masinloc Bay	|	SP: 15.52453, 119.95443  / M: 15.55672, 119.93036	|	SSL	|		|	Yes	|
