@@ -23,7 +23,7 @@ This table lists the genomic data available as of January 2024. When more than o
 |	Dar	|	_Dascyllus aruanus_	|	C	|	64	|	Jolo	|	Jol	|	Jolo	|	[6.05514, 120.99597](https://www.google.com/maps/place/6.05514,120.99597)|	LCWGS	|	1	|	No	|
 |	Goy	|	_Gerres oyena_	|	A	|	67	|	Pand	|	Pnd	|	Pandanon Island / Mantatao Island	|	P: [10.17966, 124.09](https://www.google.com/maps/place/10.17966,124.09 )  / M: [9.93966, 123.86916](https://www.google.com/maps/place/9.93966,123.86916)|	LCWGS	|	1	|	Yes	|
 |	Goy	|	_Gerres oyena_	|	C	|	64	|	Pand	|	Pnd	|	Pandanon Island	|	[10.17272, 124.07805](https://www.google.com/maps/place/10.17272,124.07805)|	LCWGS	|	1	|	Yes	|
-|	Goy	|	_Gerres oyena_	|	A	|	48	|	Pand	|	Pnd	|	Pandanon Island / Mantatao Island	|	P: [10.17966, 124.09](https://www.google.com/maps/place/10.17966,124.09)  / M: 9.93966, 123.86916	|	LCWGS	|	2	|	Yes	|
+|	Goy	|	_Gerres oyena_	|	A	|	48	|	Pand	|	Pnd	|	Pandanon Island / Mantatao Island	|	P: [10.17966, 124.09](https://www.google.com/maps/place/10.17966,124.09)  / M: [9.93966, 123.86916](https://www.google.com/maps/place/9.93966,123.86916)	|	LCWGS	|	2	|	Yes	|
 |	Goy	|	_Gerres oyena_	|	C	|	48	|	Pand	|	Pnd	|	Pandanon Island	|	[10.17272, 124.07805](https://www.google.com/maps/place/10.17272,124.07805 )	|	LCWGS	|	2	|	Yes	|
 |	Hte	|	_Hypoatherina temminckii_	|	A	|	95	|	CanB	|	Bur	|	Port Busin	|	[13.12921, 122.97338](https://www.google.com/maps/place/13.12921,122.97338 )	|	LCWGS	|	1	|	No	|
 |	Hte	|	_Hypoatherina temminckii_ & _Hypoatherina panatela_ (mix lot)	|	A	|	96	|	Jolo	|	Jol	|	Jolo	|	[6.0599, 120.99097](https://www.google.com/maps/place/6.0599,120.99097 )	|	LCWGS	|		|	No	|
