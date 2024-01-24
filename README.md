@@ -15,6 +15,8 @@ This table lists the genomic data available as of January 2024. When more than o
 |	Abu	| _Ambassis buruensis_ |	C	|	64	|	Pand	|	Pnd	|	Pandanon Island	|	[10.17272, 124.07805](https://www.google.com/maps/place/10.17272,124.07805)	|	LCWGS	|	1	|	Yes	|
 |	Abu | _Ambassis buruensis_ |	A	|	48	|	Pand	|	Pnd	|	Cebu Market	|	[10.29503, 123.91256](https://www.google.com/maps/place/10.29503,123.91256)	|	LCWGS	|	2	|	Yes	|
 |	Abu | _Ambassis buruensis_ |	C	|	48	|	Pand	|	Pnd	|	Pandanon Island	|	[10.17272, 124.07805](https://www.google.com/maps/place/10.17272,124.07805)	|	LCWGS	|	2	|	Yes	|
+| Cha | _Corythoichthys haematopterus_ | A | 33 | Pand | Pnd | Pandanon Island | [10.17966, 124.09](https://www.google.com/maps/place/10.17966,124.09)  | LCWGS | 2 |  |
+| Cha | _Corythoichthys haematopterus_ | C | 86 | Pand | Pnd | Pandanon Island | [10.17272, 124.07805](https://www.google.com/maps/place/10.17272,124.07805)| LCWGS | 2 |  |
 |	Cvi	|	_Chromis viridis_	|	A	|	40	|	Bali	|	Pal	|	Port Palapag	|	[12.63476, 125.00978](https://www.google.com/maps/place/12.63476,125.00978)	|	LCWGS	|	1	|	Yes	|
 |	Cvi	|	_Chromis viridis_	|	C	|	64	|	Bali	|	Pal	|	Biri Island	|	[12.66436, 124.36162](https://www.google.com/maps/place/12.66436,124.36162)	|	LCWGS	|	1	|	Yes	|
 |	Cvi	|	_Chromis viridis_	|	A	|	40	|	Bali	|	Pal	|	Port Palapag	|	[12.63476, 125.00978](https://www.google.com/maps/place/12.63476,125.00978)	|	LCWGS	|	2	|	Yes	|
