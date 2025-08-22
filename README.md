@@ -2,7 +2,7 @@
 
 The Albatross Re-Collection Project is a multi-year collaboration between Filipino and American scientists and universities funded by the National Science Foundation. 
 
-Over a century ago, the [USS Albatross](https://www.si.edu/object/auth_exp_fbr_EACE0079) collected fishes from the Philippines, now stored at the Smithsonian Institution. Surprisingly, the samples were never fixed in formalin, which would have altered the DNA. The collection therefore provide an incredibly archive of century-old fish genomes and rare insights into how fish have evolved in response to fishing, habitat loss, and other challenges. The Albatross Re-Collection Project is now comparing historical and modern fish genomes and phenotypes to test for evolution and to understand its consequences and implications. The research findings can help understand adaptation across many species facing similar challenges. The project also supports paid research internships for students with limited access to careers in science, and hosts workshops to foster international exchange with the Philippines. 
+Over a century ago, the [USS Albatross](https://ocean.si.edu/human-connections/exploration/deep-sea-research-100-years-ago-us-fisheries-steamer-albatross) collected fishes from the Philippines, now stored at the Smithsonian Institution. Surprisingly, the samples were never fixed in formalin, which would have altered the DNA. The collection therefore provide an incredibly archive of century-old fish genomes and rare insights into how fish have evolved in response to fishing, habitat loss, and other challenges. The Albatross Re-Collection Project is now comparing historical and modern fish genomes and phenotypes to test for evolution and to understand its consequences and implications. The research findings can help understand adaptation across many species facing similar challenges. The project also supports paid research internships for students with limited access to careers in science, and hosts workshops to foster international exchange with the Philippines. 
 
 In this repository, you can learn about the research carried out by the project staff and REU students, and find resources provided in our summer genomics workshops.
 
@@ -29,11 +29,12 @@ Partners on the U.S. side of the collaboration include the [University of Califo
   * Low-coverage whole genome sequencing (lcWGS) pipeline
 * NCBI resources
   * [Genome assemblies](https://www.ncbi.nlm.nih.gov/bioproject/1134677)
+  * See published papers for SRA accession numbers
 * [Genomic sequencing metadata on GEOME](https://geome-db.org/workbench/project-overview)
 * Internal sampling and sequencing database
 
 ## Publications
-* NSF list for the Albatross Re-Collection project (2024-2026) ([UCSC](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2343787&HistoricalAwards=false), [TAMUCC](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2343790&HistoricalAwards=false), [ODU](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2343788&HistoricalAwards=false), [Rutgers](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2343789&HistoricalAwards=false))
+* NSF list for the Albatross Re-Collection project (2024-2026) ([UCSC](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2343787), [TAMUCC](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2343790), [ODU](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2343788), [Rutgers](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2343789))
 * [NSF list for the Philippines PIRE project (2017-2023)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1743711&HistoricalAwards=false)
 
 ## Other resources
