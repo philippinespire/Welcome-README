@@ -18,7 +18,7 @@ Partners on the U.S. side of the collaboration include the [University of Califo
 * [Summer 2022 PIRE Omics Workshop](https://github.com/philippinespire/2022_PIRE_omics_workshop), Silliman University, Dumaguete City, Philippines
 * [2022 Scientific Computing Virtual Workshop](https://github.com/philippinespire/PIRE_Virtual_Workshop)
 * [2020 Python Workshop](https://github.com/philippinespire/CarpenterLabPythonWorkshop)
-* [2019 Genomiecs, GitHub, and R Workshop](https://github.com/philippinespire/GenomicsWorkshop), Silliman University, Dumaguete City, Philippines
+* [2019 Genomics, GitHub, and R Workshop](https://github.com/philippinespire/GenomicsWorkshop), Silliman University, Dumaguete City, Philippines
 
 ## Data and methods
 * [Authorship Guidelines](https://docs.google.com/document/d/1MTHa2DemKsfxZmBt7KlGVEn7_PEX_ANer-Jd0T7J8iA/edit?usp=sharing)
