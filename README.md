@@ -4,7 +4,8 @@ The Albatross Re-Collection Project is a multi-year collaboration between Filipi
 
 Over a century ago, the [USS Albatross](https://ocean.si.edu/human-connections/exploration/deep-sea-research-100-years-ago-us-fisheries-steamer-albatross) collected fishes from the Philippines, now stored at the Smithsonian Institution. Surprisingly, the samples were never fixed in formalin, which would have altered the DNA. The collection therefore provide an incredibly archive of century-old fish genomes and rare insights into how fish have evolved in response to fishing, habitat loss, and other challenges. The Albatross Re-Collection Project is now comparing historical and modern fish genomes and phenotypes to test for evolution and to understand its consequences and implications. The research findings can help understand adaptation across many species facing similar challenges. The project also supports paid research internships for students with limited access to careers in science, and hosts workshops to foster international exchange with the Philippines. 
 
-![The USS Albatross. Photo source: Tanner, Z. L. 1897, Bulletin of the U.S. Fish Commission (for 1896) vol. 16, Plate I.](albatross_side_lrg-Tanner-1897.jpg)
+![The USS Albatross. Photo source: Tanner, Z. L. 1897, Bulletin of the U.S. Fish Commission (for 1896) vol. 16, Plate I.](albatross_side_lrg-Tanner-1897.jpg)  
+*The USS Albatross. Photo source: Tanner, Z. L. 1897, Bulletin of the U.S. Fish Commission (for 1896) vol. 16, Plate I.*
 
 In this repository, you can learn about the research carried out by the project staff and REU students, find links to our products and publications, and find resources provided in our summer genomics workshops.
 
@@ -46,4 +47,5 @@ Partners on the U.S. side of the collaboration include the [University of Califo
 * Read [The Great Albatross Philippine Expedition and Its Fishes](https://sites.wp.odu.edu/PIRE/wp-content/uploads/sites/757/2019/02/Smith-and-Williams-1999-albatross-philippine-expedition.pdf) to learn more about this historic voyage.
 * [Press release on 2018 workshop](https://su.edu.ph/us-science-foundation-funded-bioinformatics-workshop-in-su-trains-filipino-american-researchers/)
 
-![Museum samples from the USS Albatross](20210502_155846.jpg)
+![Museum samples from the USS Albatross. Photo by John Whalen.](20210502_155846.jpg)  
+*Museum samples from the USS Albatross. Photo by John Whalen.*
