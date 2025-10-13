@@ -41,6 +41,7 @@ Partners on the U.S. side of the collaboration include the [University of Califo
 * [NSF list for the Philippines PIRE project (2017-2023)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1743711&HistoricalAwards=false)
 
 ## Other resources
+* ["DNA from rum-soaked fishes chronicles century of environmental change"](https://doi.org/10.1126/science.zzj2h2m) by Erik Stokstad, October 13, 2025, Science Magazine
 * The older [Philippines PIRE website](https://sites.wp.odu.edu/PIRE/)
 * [Photo](https://www.biodiversitylibrary.org/item/138580#page/211/mode/1up) of the original clay jars the specimens were housed in (see page 205)
 * [Popular science article](https://en.wikisource.org/wiki/Popular_Science_Monthly/Volume_78/March_1911/The_Work_of_the_Albatross_in_the_Philippines) from 1921 on the Albatross expedition
