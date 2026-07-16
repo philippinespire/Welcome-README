@@ -42,6 +42,7 @@ Partners on the U.S. side of the collaboration include the [University of Califo
   * [Capture shotgun sequencing libraries (CSSL) genotyping](https://github.com/philippinespire/pire_cssl_data_processing)
   * Low-coverage whole genome sequencing (lcWGS) pipeline
 * NCBI resources
+  * [NCBI umbrella BioProject](https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA1480780) with links to all public accession numbers
   * [Genome assemblies](https://www.ncbi.nlm.nih.gov/bioproject/1134677)
   * [Tables of NCBI accession numbers](https://github.com/philippinespire/database_albatross_recollections/tree/main/db_files/sequence_info_sheets) in our project database
 * [Genomic sequencing metadata on GEOME](https://geome-db.org/workbench/project-overview)
