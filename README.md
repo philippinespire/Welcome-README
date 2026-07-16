@@ -1,6 +1,6 @@
 #  Welcome to the Albatross Re-Collection Project! 
 
-<img src="carpenter-kent_old_dominion_u.jpg" width="300">
+<img src="carpenter_kent_su_crop.jpg" width="300">
 
  **Kent Carpenter, 1953-2026** 
 
