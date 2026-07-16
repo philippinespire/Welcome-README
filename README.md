@@ -1,5 +1,16 @@
 #  Welcome to the Albatross Re-Collection Project! 
 
+<img src="carpenter-kent_old_dominion_u.jpg" width="300">
+
+ **Kent Carpenter, 1953-2026** 
+
+We are mourning the tragic loss of our dear collaborator, mentor, and friend Kent Carpenter on July 12, 2026.  
+
+* [IUCN In Memoriam](https://iucn.org/news/202607/memoriam-dr-kent-e-carpenter-1953-2026)
+* [Silliman University](https://su.edu.ph/silliman-university-mourns-the-passing-of-dr-kent-e-carpenter/)
+* and many news articles.  
+
+------------------------------
 The Albatross Re-Collection Project is a multi-year collaboration between Filipino and American scientists and universities funded by the National Science Foundation. 
 
 Over a century ago, the [USS Albatross](https://ocean.si.edu/human-connections/exploration/deep-sea-research-100-years-ago-us-fisheries-steamer-albatross) collected fishes from the Philippines, now stored at the Smithsonian Institution. Surprisingly, the samples were never fixed in formalin, which would have altered the DNA. The collection therefore provide an incredibly archive of century-old fish genomes and rare insights into how fish have evolved in response to fishing, habitat loss, and other challenges. The Albatross Re-Collection Project is now comparing historical and modern fish genomes and phenotypes to test for evolution and to understand its consequences and implications. The research findings can help understand adaptation across many species facing similar challenges. The project also supports paid research internships for students with limited access to careers in science, and hosts workshops to foster international exchange with the Philippines. 
