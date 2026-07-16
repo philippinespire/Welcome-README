@@ -6,8 +6,9 @@
 
 We are mourning the tragic loss of our dear collaborator, mentor, and friend Kent Carpenter on July 12, 2026.  
 
-* [IUCN In Memoriam](https://iucn.org/news/202607/memoriam-dr-kent-e-carpenter-1953-2026)
-* [Silliman University](https://su.edu.ph/silliman-university-mourns-the-passing-of-dr-kent-e-carpenter/)
+* [In Memoriam: Dr Kent E. Carpenter (1953–2026)](https://iucn.org/news/202607/memoriam-dr-kent-e-carpenter-1953-2026), IUCN
+* [Silliman University Mourns the Passing of Dr. Kent E. Carpenter](https://su.edu.ph/silliman-university-mourns-the-passing-of-dr-kent-e-carpenter/)
+* [Kent Carpenter spent half a century counting the life of Philippine reefs](https://news.mongabay.com/2026/07/kent-carpenter-spent-half-a-century-counting-the-life-of-philippine-reefs/), Monga Bay
 * and many news articles.  
 
 ------------------------------
