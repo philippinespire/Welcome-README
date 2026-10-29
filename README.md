@@ -38,13 +38,13 @@ Partners on the U.S. side of the collaboration include the [University of Califo
 * [Table of genomics data available](data.md)
 * [Sampling map](https://www.google.com/maps/d/viewer?ll=13.778840586088801%2C121.06196765909733&z=10&mid=1leLurkYXC3FezrY59AhoU0QTjvi4fsIl)
 * Bioinformatics pipelines
-  * [Short-read quality control and processing](https://github.com/philippinespire/pire_fq_gz_processing)
+  * [Low-coverage whole genome sequencing (lcWGS) temporal genomics](https://github.com/philippinespire/nf-pipelines)
   * [Shotgun sequencing genome assembly](https://github.com/philippinespire/pire_ssl_data_processing)
   * [Capture shotgun sequencing libraries (CSSL) genotyping](https://github.com/philippinespire/pire_cssl_data_processing)
-  * Low-coverage whole genome sequencing (lcWGS) pipeline
 * NCBI resources
   * [NCBI umbrella BioProject](https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA1480780) with links to all public accession numbers
-  * [Genome assemblies](https://www.ncbi.nlm.nih.gov/bioproject/1134677)
+  * [9 new fish genome assemblies](https://www.ncbi.nlm.nih.gov/bioproject/1134677)
+  * [40 new fish genome assemblies](genomes_iridian.md) in collaboration with [Iridian Genomes](https://iridiangenomes.org/)
   * [Tables of NCBI accession numbers](https://github.com/philippinespire/database_albatross_recollections/tree/main/db_files/sequence_info_sheets) in our project database
 * [Genomic sequencing metadata on GEOME](https://geome-db.org/workbench/project-overview)
 * [Project sampling and sequencing database](https://github.com/philippinespire/database_albatross_recollections)
